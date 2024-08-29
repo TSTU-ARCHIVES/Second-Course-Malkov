@@ -1,0 +1,90 @@
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Lab10.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Lab10.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Lab10.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Visualisation.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Visualisation.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Visualisation.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Lab10.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\bin\Debug\net6.0-windows\Lab10.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.GenerateResource.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CopyComplete
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\refint\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\ref\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form1.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form2.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Lab10.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Lab10.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Lab10.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Visualisation.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Visualisation.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Visualisation.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Lab10.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\bin\Debug\net6.0-windows\Lab10.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form1.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form2.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.GenerateResource.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CopyComplete
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\refint\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\Visualisation.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab10to12\Visualisation\obj\Debug\net6.0-windows\ref\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\refint\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form1.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form2.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.GenerateResource.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CopyComplete
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\ref\Visualisation.dll
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.exe
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.deps.json
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\bin\Debug\net6.0-windows\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form1.resources
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.Form2.resources
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.GenerateResource.cache
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.csproj.CopyComplete
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.dll
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\refint\Visualisation.dll
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.pdb
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\Visualisation.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\Практика\GraphsADT (L10to12)\Visualisation\obj\Debug\net6.0-windows\ref\Visualisation.dll

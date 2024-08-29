@@ -1,0 +1,33 @@
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\bin\Debug\net6.0\ConsoleTest.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\bin\Debug\net6.0\ConsoleTest.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\bin\Debug\net6.0\ConsoleTest.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\bin\Debug\net6.0\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\bin\Debug\net6.0\ConsoleTest.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\refint\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ConsoleTest.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\ConsoleTest\obj\Debug\net6.0\ref\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\ConsoleTest.exe
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\ConsoleTest.deps.json
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\ConsoleTest.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\ConsoleTest.pdb
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\bin\Debug\net6.0\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CopyComplete
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\refint\ConsoleTest.dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.pdb
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ConsoleTest.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\ConsoleTest\obj\Debug\net6.0\ref\ConsoleTest.dll

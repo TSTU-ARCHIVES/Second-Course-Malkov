@@ -1,0 +1,15 @@
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\bin\Debug\net6.0\NOK.exe
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\bin\Debug\net6.0\NOK.deps.json
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\bin\Debug\net6.0\NOK.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\bin\Debug\net6.0\NOK.dll
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\bin\Debug\net6.0\NOK.pdb
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.dll
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\refint\NOK.dll
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.pdb
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\NOK.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\Практика\NOK\NOK\obj\Debug\net6.0\ref\NOK.dll

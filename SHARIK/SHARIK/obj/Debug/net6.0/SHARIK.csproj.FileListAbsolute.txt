@@ -1,0 +1,15 @@
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\bin\Debug\net6.0\SHARIK.exe
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\bin\Debug\net6.0\SHARIK.deps.json
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\bin\Debug\net6.0\SHARIK.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\bin\Debug\net6.0\SHARIK.dll
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\bin\Debug\net6.0\SHARIK.pdb
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.dll
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\refint\SHARIK.dll
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.pdb
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\SHARIK.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\Практика\SHARIK\SHARIK\obj\Debug\net6.0\ref\SHARIK.dll

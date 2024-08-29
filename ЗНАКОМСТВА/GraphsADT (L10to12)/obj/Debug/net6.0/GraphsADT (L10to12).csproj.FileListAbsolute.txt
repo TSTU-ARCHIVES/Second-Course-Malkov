@@ -1,0 +1,24 @@
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\bin\Debug\net6.0\GraphsADT (L10to12).deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\bin\Debug\net6.0\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\bin\Debug\net6.0\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\refint\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\GraphsADT (L10to12)\GraphsADT (L10to12)\obj\Debug\net6.0\ref\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\bin\Debug\net6.0\GraphsADT (L10to12).deps.json
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\bin\Debug\net6.0\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\bin\Debug\net6.0\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\refint\GraphsADT (L10to12).dll
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\GraphsADT (L10to12).pdb
+E:\второй курс\1ссем\АИСД\Практика\ЗНАКОМСТВА\GraphsADT (L10to12)\obj\Debug\net6.0\ref\GraphsADT (L10to12).dll

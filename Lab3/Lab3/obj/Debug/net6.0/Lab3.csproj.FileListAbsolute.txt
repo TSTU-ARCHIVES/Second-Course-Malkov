@@ -1,0 +1,15 @@
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\bin\Debug\net6.0\Lab3.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\bin\Debug\net6.0\Lab3.deps.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\bin\Debug\net6.0\Lab3.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\bin\Debug\net6.0\Lab3.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab3\Lab3\obj\Debug\net6.0\ref\Lab3.dll

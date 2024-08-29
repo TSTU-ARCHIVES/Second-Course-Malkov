@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab6to8</id>
+    <version>1.0.0</version>
+    <authors>Lab6to8</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\второй курс\1ссем\АИСД\ЛАбы\Lab6to8\Lab6to8\bin\Debug\net6.0\Lab6to8.runtimeconfig.json" target="lib\net6.0\Lab6to8.runtimeconfig.json" />
+    <file src="E:\второй курс\1ссем\АИСД\ЛАбы\Lab6to8\Lab6to8\bin\Debug\net6.0\Lab6to8.dll" target="lib\net6.0\Lab6to8.dll" />
+  </files>
+</package>

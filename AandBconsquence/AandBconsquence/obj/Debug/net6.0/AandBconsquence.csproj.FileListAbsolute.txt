@@ -1,0 +1,15 @@
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\bin\Debug\net6.0\AandBconsquence.exe
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\bin\Debug\net6.0\AandBconsquence.deps.json
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\bin\Debug\net6.0\AandBconsquence.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\bin\Debug\net6.0\AandBconsquence.dll
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\bin\Debug\net6.0\AandBconsquence.pdb
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.dll
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\refint\AandBconsquence.dll
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.pdb
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\AandBconsquence.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\Практика\AandBconsquence\AandBconsquence\obj\Debug\net6.0\ref\AandBconsquence.dll

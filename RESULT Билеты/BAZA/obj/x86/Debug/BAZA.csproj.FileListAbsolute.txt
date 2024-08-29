@@ -1,0 +1,12 @@
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\bin\x86\Debug\HotelDB.accdb
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\bin\x86\Debug\BAZA.exe.config
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\bin\x86\Debug\BAZA.exe
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\bin\x86\Debug\BAZA.pdb
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.csproj.AssemblyReference.cache
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.csproj.SuggestedBindingRedirects.cache
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.Form1.resources
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.Properties.Resources.resources
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.csproj.GenerateResource.cache
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.exe
+E:\первый курс\second semak\БД НА СИШАРПЕ!\BAZA\BAZA\obj\x86\Debug\BAZA.pdb
